@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "right": {
     "id": "b96eed0e15aacebe",
@@ -186,7 +185,8 @@
   },
   "active": "75cac6214d730a5a",
   "lastOpenFiles": [
-    "01. Liux.md",
-    "01. Linux.md"
+    "README.md",
+    "01. Linux.md",
+    "01. Liux.md"
   ]
 }
