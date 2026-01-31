@@ -11,10 +11,14 @@
             "id": "75cac6214d730a5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. Linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01. Linux"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "right": {
     "id": "b96eed0e15aacebe",
@@ -180,5 +185,8 @@
     }
   },
   "active": "75cac6214d730a5a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "01. Liux.md",
+    "01. Linux.md"
+  ]
 }
