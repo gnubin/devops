@@ -1,3 +1,4 @@
 {
-  "readableLineLength": false
+  "readableLineLength": true,
+  "attachmentFolderPath": "imgs"
 }
