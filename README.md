@@ -2,12 +2,12 @@
 📄- Статья
 🎞️ - Видеоматериал
 # Оглавление
-- [[01. Linux]]
-- [[02. Bash]]
-- [[03. Network]]
-- [[04. Git]]
+- [[1.1 Linux]]
+- [[1.2 Bash]]
+- [[1.3 Network]]
+- [[1.4 Git]]
 - [[05. LoadBalancer]]
-- [[06. Databases]]
+- [[7.1 Databases]]
 - [[07. Docker]]
 - [[08. Gitlab CI]]
 - [[10. Kubernetes (k8s)]]
